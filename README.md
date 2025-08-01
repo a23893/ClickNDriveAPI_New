@@ -19,7 +19,7 @@ Click N Drive is a RESTful API built with Node.js, Express, and MongoDB. It powe
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/click-n-drive-api.git
+git clone https://github.com/a23893/ClickNDriveAPI_New.git
 cd click-n-drive-api
 ```
 
@@ -61,9 +61,9 @@ The API will be available at: `http://localhost:3000/`
 ```
 click-n-drive-api/
 ├── models/
-│   └── Usuario.js         # Mongoose schema for users
+│   └── User.js         # Mongoose schema for users
 ├── routes/
-│   └── usuarios.js        # Express routes for user operations
+│   └── users.js        # Express routes for user operations
 ├── server.js              # App entry point
 ├── .env                   # Environment configuration
 ├── package.json
@@ -109,6 +109,8 @@ MIT
 ---
 
 ## 👨‍💻 Author
+
+Diogo Gomes - https://github.com/a23893 / https://github.com/diogo22gomes
 
 Made with ❤️ by the Click N Drive team.
 
